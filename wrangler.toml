@@ -1,3 +1,9 @@
 name = "webflow-markdown-agent"
 main = "src/index.js"
-compatibility_date = "2024-03-20"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+account_id = "a18fc5f89c6152971287198a8c920d1a"
+
+routes = [
+  { pattern = "*infinitecompute.ai/*", zone_name = "infinitecompute.ai" }
+]

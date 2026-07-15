@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "turndown": "^7.2.4"
+    "node-html-markdown": "^2.0.0"
   }
 }
